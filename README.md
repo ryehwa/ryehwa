@@ -32,6 +32,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 |------|---|---|
 |AWS|AWS Cloud|2023.06.08 & 07.13|
 |CodeStates Bootcamp|Java, Spring Boot, Spring Data JPA, MySQL | 2022.10 - 2023.04|
+|Hanyang & Tokai Exchange Student| Japanese | 2017.09 - 2018.02|
 
 🥇 My Github
 
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ... Dino
+- 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Dino-1E8CBE?style=flat-square&logo=Dino&logoColor=white"/>
 - 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
 
 
