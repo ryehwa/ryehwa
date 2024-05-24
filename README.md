@@ -25,8 +25,13 @@ A developer who thinks, researches, creates, and connects to practical realizati
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ryehwa/Back-end-Developer-42db57c04e5f4a3783f85368f4e7f8f3?pvs=4)](https://www.notion.so/ryehwa/Back-end-Developer-42db57c04e5f4a3783f85368f4e7f8f3?pvs=4)
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@bokimy)](https://velog.io/@bokimy)
 
+🎫 Certificate
 
-💻 Education with certificate
+|------|---|---|
+|정보처리기사 필기|한국산업인력공단|2024.05.24|
+|SQLD|한국데이터산업진흥원| 2024.04.05|
+
+💻 Education with certification
 
 |Entity|Stack|Date|
 |------|---|---|
