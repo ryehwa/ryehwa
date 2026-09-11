@@ -29,7 +29,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 |Name|Entity|Date|
 |------|---|---|
-|정보처리기사 필기|한국산업인력공단|2024.05.24|
 |SQLD|한국데이터산업진흥원| 2024.04.05|
 
 
